@@ -1,0 +1,9 @@
+[submodule "nui_interface_client"]
+	path = nui_interface_client
+	url = git@github.com:AmyPhung/nui_interface_client.git
+[submodule "nui_interface_server"]
+	path = nui_interface_server
+	url = https://github.com/AmyPhung/nui_interface_server
+[submodule "nui_interface_msgs"]
+	path = nui_interface_msgs
+	url = https://github.com/AmyPhung/nui_interface_msgs
